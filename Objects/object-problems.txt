@@ -1,0 +1,3 @@
+Two(2) type of object problems inComplete: 
+01. object.js
+02. new.js
